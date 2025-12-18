@@ -1,0 +1,25 @@
+{
+  "name": "rs-prolipsi-v1",
+  "version": "1.0.0",
+  "description": "Sistema RS-Prolipsi desenvolvido com Supabase e WeWeb",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RotaFacil/RS-Prolipsi-v.1.git"
+  },
+  "author": {
+    "name": "Roberto Camargo",
+    "email": "rsprolipsioficial@gmail.com"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "keywords": [
+    "supabase",
+    "weweb",
+    "no-code",
+    "low-code",
+    "prolipsi"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
