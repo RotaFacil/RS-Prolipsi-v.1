@@ -5,13 +5,10 @@ node_modules/
 
 # Testing
 coverage/
-*.log
 
 # Production
 build/
 dist/
-*.env.local
-*.env.production.local
 
 # Misc
 .DS_Store
